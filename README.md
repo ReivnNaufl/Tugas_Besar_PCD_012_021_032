@@ -4,7 +4,7 @@
 
 ## 🎮 Gameplay Overview
 
-Dalam game ini, kamu bermain sebagai seseorang yang terperangkap di sebuah kamar misterius. Ketika objek di kamar mulai bergetar, itu adalah **pertanda jumpscare akan terjadi**. Satu-satunya cara untuk bertahan hidup adalah dengan **menutup matamu secepatnya**.
+Dalam game ini, kamu bermain sebagai seseorang yang kesulitan tidur. Ketika objek di kamar mulai bergetar, itu adalah **pertanda jumpscare akan terjadi**. Satu-satunya cara untuk bertahan hidup adalah dengan **menutup matamu secepatnya**.
 
 Jika kamu berhasil menutup mata sebelum jumpscare dimulai, kamu akan mendengar audio yang menandakan bahaya telah berlalu. Namun jika gagal... bersiaplah untuk akhir yang mengejutkan.
 
